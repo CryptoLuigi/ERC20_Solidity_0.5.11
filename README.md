@@ -1,7 +1,7 @@
 # ERC20 Smart contract updated to v 0.5.11
 ## to be compiled with the newest version of Solidity.
-## Code ported solidity version 0.4.24
-## Code updated by CryptoLuigi
+### Code ported solidity version 0.4.24
+### Code updated by CryptoLuigi
 
 ### Code Ported from:
 ```
